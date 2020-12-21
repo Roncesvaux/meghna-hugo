@@ -18,8 +18,8 @@ contact:
   contact_form:
     enable: true
     form_action: "#"
-    name: Your Name
-    email: Your Email
-    subject: Subject
-    message: Message
-    submit: Submit
+    name: Ihr Name
+    email: Ihre E-Mail
+    subject: Betreff
+    message: Nachricht
+    submit: Abschicken
