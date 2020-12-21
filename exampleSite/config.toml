@@ -1,4 +1,4 @@
-baseURL = "https://physio-cefan-test.de"
+baseURL = "https://trusting-yonath-ca62b1.netlify.app/"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
